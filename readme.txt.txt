@@ -1,2 +1,0 @@
-06/01/2021，下午，我把SideProject这个文件夹从git-tutorial文件夹里面移动了出来，所以现在SideProject和git-tutorial两个文件夹是平级了。
-DONE!
